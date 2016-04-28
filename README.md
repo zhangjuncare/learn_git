@@ -1,14 +1,14 @@
 # learn_git
 
--远程仓库练习，OK！  先git clone   把learn_git克隆岛本地，然后在按廖雪峰老师的操作 
--git remote add origin https://github.com/zhangjuncare/learn_git.git
--git add hello.txt
--git commit -m "add a hello.txt"
--git push -u origin master
+    -远程仓库练习，OK！  先git clone   把learn_git克隆岛本地，然后在按廖雪峰老师的操作 
+    -git remote add origin https://github.com/zhangjuncare/learn_git.git
+    -git add hello.txt
+    -git commit -m "add a hello.txt"
+    -git push -u origin master
 
--输入用户名+密码   搞定！
+    -输入用户名+密码   搞定！
 
-下面是网上找到对的  github常见操作和常见错误！的资料： 
+    下面是网上找到对的  github常见操作和常见错误！的资料： 
 
 github常见操作和常见错误！错误提示：fatal: remote origin already exists.
 
