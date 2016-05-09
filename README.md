@@ -8,7 +8,7 @@
 
     -输入用户名+密码   搞定！
 
- #下面是网上找到对的  github常见操作和常见错误！的资料： 
+ # 下面是网上找到对的  github常见操作和常见错误！的资料： 
 
 github常见操作和常见错误！错误提示：fatal: remote origin already exists.
 
